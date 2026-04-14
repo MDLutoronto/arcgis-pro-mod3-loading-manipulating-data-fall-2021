@@ -18,4 +18,4 @@ The following slide deck will walk you through Module 3 of the ArcGIS Pro tutori
 
 <iframe allowfullscreen="true" frameborder="0" height="569" mozallowfullscreen="true" src="https://docs.google.com/presentation/d/e/2PACX-1vRcIeGwfa-583auu7fq3spxQ6BwE_tHejoL800HToK6XvLfUgVGwKSz3av0aP1rEA/embed?start=false&loop=false&delayms=3000" webkitallowfullscreen="true" width="960"></iframe>
 
-Technique: [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping), [Spatial Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Spatial+Analysis) | Tools: [ArcGIS Pro](https://mdlutoronto.github.io/tutorials-search/?technique=Geocoding)
+Technique: [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping), [Spatial Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Spatial+Analysis) | Tools: [ArcGIS Pro](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Pro)
